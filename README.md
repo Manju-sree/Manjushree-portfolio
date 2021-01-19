@@ -4,7 +4,7 @@ I'm learning following skills from Tanay Pratap on Youtube(neogcamp) to create a
 
 Skill-sets:
 
-JavaScript,
-CSS,
-HTML,
-React
+1. JavaScript
+1. CSS
+1. HTML
+1. React
