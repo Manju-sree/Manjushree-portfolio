@@ -2,7 +2,7 @@ Hey! WelcoMe to My portfolio.
 
 I'M learning following skills froM Tanay Pratap on Youtube(neogcaMp) to create a portfolio.
 
-Skill-sets:
+Skills:
 
 1. JavaScript
 1. CSS
