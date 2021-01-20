@@ -1,6 +1,6 @@
-Hey! WelcoMe to My portfolio.
+Hey! Welcome to My portfolio.
 
-I'M learning following skills froM Tanay Pratap on Youtube(neogcaMp) to create a portfolio.
+I'm learning following skills from Tanay Pratap on Youtube(neog.camp) to create a portfolio.
 
 Skills:
 
