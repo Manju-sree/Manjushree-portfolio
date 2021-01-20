@@ -83,6 +83,7 @@ hr {
     background-color: var(--primary-color);
     color: white;
     padding: 1rem;
+    border-top-right-radius: 1rem;
     border-bottom-left-radius: 1rem;
 }
 
@@ -136,11 +137,12 @@ hr {
 /** sections **/
 
 .section {
-    padding: 2rem;
+    padding: 2rem 2rem 3rem;
 }
 
 .section h1 {
     text-align: center;
+    color: var(--moreDarkGray);
 }
 
 .ow {
@@ -155,7 +157,8 @@ hr {
     padding: 4rem 1rem;
     text-align: center;
     color: white;
-    border-top-right-radius: 1rem;
+    border-top-left-radius: 1rem;
+    border-bottom-right-radius: 1rem;
 }
 
 .footer .link {
