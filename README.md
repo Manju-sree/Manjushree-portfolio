@@ -8,3 +8,4 @@ Skills:
 1. CSS
 1. HTML
 1. React
+2. Node js/vanilla js
